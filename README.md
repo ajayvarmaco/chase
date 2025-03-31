@@ -1,16 +1,12 @@
 ![Data Loading](./Data/images/chase-top-banner3.png)
 
 
-# chase
+# Customer Churn Prediction
 
 *Author: Ajay Varma*  
 *Date: 2025-MAR-29*  
 *Project Directory: `/Users/ajayvarma/Documents/VS Code/Workspace/Data Science/Projects/Chase/`*  
 *Type: Portfolio Project*
-
-## <span style="color:#1979d5">Customer Churn Prediction</span>
-
----
 
 ### Project Overview
 
