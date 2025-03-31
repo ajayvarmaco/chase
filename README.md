@@ -8,6 +8,8 @@
 *Project Directory: `/Users/ajayvarma/Documents/VS Code/Workspace/Data Science/Projects/Chase/`*  
 *Type: Portfolio Project*
 
+---
+
 ### Project Overview
 
 #### Objective
