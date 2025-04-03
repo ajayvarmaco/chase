@@ -46,6 +46,16 @@ The target variable, **Exited**, indicates whether the customer churned (1) or r
 
 ---
 
+<table>
+  <tr>
+    <td><img src="https://github.com/ajayvarmaco/chase/blob/main/Data/images/chase-vs-code-1.png" width="200" /></td>
+    <td><img src="https://github.com/ajayvarmaco/chase/blob/main/Data/images/chase-vs-code-2.png" width="200" /></td>
+    <td><img src="https://github.com/ajayvarmaco/chase/blob/main/Data/images/chase-vs-code-3.png" width="200" /></td>
+  </tr>
+</table>
+
+---
+
 ### Key Performance Metrics
 
 - **Accuracy**: Measures how well the model predicts both churned and non-churned customers.
