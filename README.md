@@ -4,7 +4,7 @@
 # Customer Churn Prediction
 
 *Author: Ajay Varma*  
-*Date: MAR-2025
+*Date: MAR-2025*
 *Project Directory: `/Users/ajayvarma/Documents/VS Code/Workspace/Data Science/Projects/Chase/`*  
 *Type: Portfolio Project*
 
