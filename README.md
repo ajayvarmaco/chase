@@ -44,17 +44,12 @@ The target variable, **Exited**, indicates whether the customer churned (1) or r
 6. **Model Evaluation**:  
    Models were evaluated using metrics such as **accuracy**, **precision**, **recall**, **F1-score**, and **confusion matrices** to assess performance from different perspectives.
 
----
+## Image Grid with Descriptions
 
-<table>
-  <tr>
-    <td><img src="https://github.com/ajayvarmaco/chase/blob/main/Data/images/chase-vs-code-1.png" width="200" /></td>
-    <td><img src="https://github.com/ajayvarmaco/chase/blob/main/Data/images/chase-vs-code-2.png" width="200" /></td>
-    <td><img src="https://github.com/ajayvarmaco/chase/blob/main/Data/images/chase-vs-code-3.png" width="200" /></td>
-  </tr>
-</table>
+| ![Image 1](https://github.com/ajayvarmaco/chase/blob/main/Data/images/chase-vs-code-1.png) | ![Image 2](https://github.com/ajayvarmaco/chase/blob/main/Data/images/chase-vs-code-2.png) | ![Image 3](https://github.com/ajayvarmaco/chase/blob/main/Data/images/chase-vs-code-3.png) |
+|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+| Description for Image 1                                                                          | Description for Image 2                                                                          | Description for Image 3                                                                          |
 
----
 
 ### Key Performance Metrics
 
