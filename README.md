@@ -45,11 +45,12 @@ The target variable, **Exited**, indicates whether the customer churned (1) or r
    Models were evaluated using metrics such as **accuracy**, **precision**, **recall**, **F1-score**, and **confusion matrices** to assess performance from different perspectives.
 
 
+
 | ![Image 1](https://github.com/ajayvarmaco/chase/blob/main/Data/images/chase-vs-code-1.png) |
 |------------------------------------------------------------------------------------------------|
+
 | ![Image 2](https://github.com/ajayvarmaco/chase/blob/main/Data/images/chase-vs-code-2.png) | ![Image 3](https://github.com/ajayvarmaco/chase/blob/main/Data/images/chase-vs-code-3.png) |
 |------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-
 
 ### Key Performance Metrics
 
